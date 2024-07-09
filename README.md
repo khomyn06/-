@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+    
 int main() {
     double t1, t2, t3;
     
